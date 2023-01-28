@@ -3,10 +3,10 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gian-lucca)](https://github.com/Gian-lucca)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gianlucca-augusto-745485237/)](https://www.linkedin.com/in/gianlucca-augusto-745485237/)
 
-## Sobre mim
+## Sobre Mim
 Sou um Desenvolvedor Front-end
 
-### 🚀💻 Tecnologias e ferramentas
+### 🚀💻 Tecnologias e Ferramentas
 
 ![Drupal](https://img.shields.io/badge/Drupal-20232A?style=for-the-badge&logo=drupal&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
