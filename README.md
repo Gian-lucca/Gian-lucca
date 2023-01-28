@@ -3,10 +3,10 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gian-lucca)](https://github.com/Gian-lucca)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gianlucca-augusto-745485237/)](https://www.linkedin.com/in/gianlucca-augusto-745485237/)
 
-## About me
+## Sobre mim
 Sou um Desenvolvedor Front-end
 
-### 🚀💻 Technologies & Tools
+### 🚀💻 Tecnologias e ferramentas
 
 ![Drupal](https://img.shields.io/badge/Drupal-20232A?style=for-the-badge&logo=drupal&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,7 +20,7 @@ Sou um Desenvolvedor Front-end
 ![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=black)
 
 
-### ⚡ GitHub Stats
+### ⚡ Estatísticas do GitHub
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Gian-lucca&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 
