@@ -1,32 +1,43 @@
-## Olá, sou Gianlucca Augusto!
+## Olá, sou Gianlucca Augusto, Web Developer | Full Stack Drupal Pleno | React | HTML | CSS | JavaScript
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gian-lucca)](https://github.com/Gian-lucca)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gianlucca-augusto-745485237/)](https://www.linkedin.com/in/gianlucca-augusto-745485237/)
+<div> 
+  <a href="https://www.instagram.com/gianlucaaugusto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "gianlucca.augusto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gianlucca-augusto-745485237/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-1572B6?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "https://gianlucca-augusto.vercel.app/"><img src="https://img.shields.io/badge/-Meu site-da9b1d?style=for-the-badge&logo=web&logoColor=white" target="_blank"></a>  
+</div>
 
-## Sobre Mim
-Sou um Desenvolvedor Front-end
+##
 
-### 🚀💻 Tecnologias e Ferramentas
+<div>
+  ### ⚡ Estatísticas do GitHub
+  
+  
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=Gian-lucca&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gian-lucca&hide=TeX&layout=compact&theme=dracula)
+  
+</div>
 
-![Drupal](https://img.shields.io/badge/Drupal-20232A?style=for-the-badge&logo=drupal&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=red)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=black)
+##
 
+### 🚀💻 Tecnologias
 
-### ⚡ Estatísticas do GitHub
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gian-Drupal" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-original.svg">
+  <img align="center" alt="Gian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gian-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Gian-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gian-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Gian-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Gian-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Gian-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Gian-Acquia" height="30" width="40" src="https://www.acquia.com/themes/custom/juice/logo.svg">
+  <img align="center" alt="Gian-Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+</div>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Gian-lucca&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gian-lucca&hide=TeX&layout=compact&theme=dark)
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Gian-lucca" alt="Gian-lucca" /></p>
 <!--
 **Gian-lucca/Gian-lucca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
