@@ -1,5 +1,7 @@
 ## Olá, sou Gianlucca Augusto, Web Developer | Full Stack Drupal Pleno | React | HTML | CSS | JavaScript
 
+</br>
+
 <div> 
   <a href="https://www.instagram.com/gianlucaaugusto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "gianlucca.augusto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -7,36 +9,29 @@
   <a href = "https://gianlucca-augusto.vercel.app/"><img src="https://img.shields.io/badge/-Meu site-da9b1d?style=for-the-badge&logo=web&logoColor=white" target="_blank"></a>  
 </div>
 
-##
+</br>
+  
+⚡ Estatísticas do GitHub
+ | [![GitHub Commits](https://github-readme-stats.vercel.app/api/top-langs/?username=Gian-lucca&hide=TeX&layout=compact&theme=gruvbox)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gian-lucca&theme=gruvbox)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
 
-<div>
-  ### ⚡ Estatísticas do GitHub
-  
-  
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=Gian-lucca&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gian-lucca&hide=TeX&layout=compact&theme=dracula)
-  
-</div>
-
-##
 
 ### 🚀💻 Tecnologias
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gian-Drupal" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-original.svg">
-  <img align="center" alt="Gian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gian-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gian-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gian-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Gian-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Gian-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Gian-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Gian-Acquia" height="30" width="40" src="https://www.acquia.com/themes/custom/juice/logo.svg">
-  <img align="center" alt="Gian-Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-</div>
+  <div align="center" >
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,sass,nodejs,php,docker,figma,ps,github,linux,postman,vercel,vite,bootstrap,wordpress" />
+</a>
+  <br />
+
+  </div>
+
+ 
+##
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=Gian-lucca&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
+  </div>
+  
 
 <!--
 **Gian-lucca/Gian-lucca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
